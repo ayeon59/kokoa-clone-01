@@ -5,7 +5,7 @@
    width: 100%;
    box-sizing: border-box;
    padding : var(--horizental-space);
-   top: 30px;
+   margin-bottom: 13px;
 }
 
 .screen-header__title{
